@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #accfd8;
+}
+
+.carousel-item.active {
+    background-color: #accfd8;
+    height: 370px;
+}
+
+a.nav-link {
+    padding-right: 50px;
+}
